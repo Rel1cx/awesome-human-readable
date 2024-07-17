@@ -37,11 +37,6 @@
 
 - [`strex`](https://github.com/pedsmoreira/strex) - String Expressions: human-readable approach to using RegEx in text files
 
-## Versioning
-
-- [`absolute-version-js`](https://github.com/absolute-version/absolute-version-js) - absolute-version produces unique absolute prerelease versions with human-helpful and machine-readable metadata from your git history
-- [`semver`](https://github.com/release-kit/semver) - Parse semantic version from string or tag
-
 ## Testing & Quality Assurance
 
 - [`scope-tags`](https://github.com/matiduda/scope-tags) - About Output human readable test scope report for QA
