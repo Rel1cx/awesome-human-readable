@@ -1,6 +1,6 @@
 # Awesome Human-readable [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome libraries that accept or produce human-readable data
+> A curated list of awesome libraries that accept or produce human-readable formats
 
 ## Byte
 
@@ -33,7 +33,7 @@
 
 - [`number-adapter`](https://github.com/VegieDoggie/number-adapter) - Lightweight module to convert number to a human readable string or bigint
 
-## String Expression & RegEx
+## RegEx
 
 - [`strex`](https://github.com/pedsmoreira/strex) - String Expressions: human-readable approach to using RegEx in text files
 
