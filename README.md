@@ -4,7 +4,7 @@
 
 ## Byte
 
-- [`@pantajoe/bytes`](https://github.com/pantajoe/bytes) - Convert bytes to human readable strings and vice versa: 1024 → 1KB and 1KB → 1024
+- [`superbytes`](https://github.com/superbytess/superbytes) - Convert bytes to a human readable string format
 
 ## Date & Time
 
