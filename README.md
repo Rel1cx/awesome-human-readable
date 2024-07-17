@@ -2,7 +2,7 @@
 
 > A curated list of awesome libraries that accept or produce human-readable formats
 
-## Byte
+## Bytes
 
 - [`superbytes`](https://github.com/superbytess/superbytes) - Convert bytes to a human readable string format
 
